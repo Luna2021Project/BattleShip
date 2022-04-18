@@ -1,1 +1,1 @@
-print.console(luciana)
+alert(`Unknown game type:`);
