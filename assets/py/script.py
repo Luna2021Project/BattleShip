@@ -1,1 +1,1 @@
-print.console(luciana)
+print(luciana)
