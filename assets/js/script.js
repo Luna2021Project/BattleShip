@@ -1,1 +1,1 @@
-alert(`Unknown game type:`);
+console.log(`Unknown game type:`);
